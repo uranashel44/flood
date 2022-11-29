@@ -1,0 +1,13 @@
+// loaders
+export const FLOOD_ENABLE_LOADER = 'FLOOD_ENABLE_LOADER';
+export const FLOOD_DISABLE_LOADER = 'FLOOD_DISABLE_LOADER';
+
+// theming
+export const TOGGLE_THEME = 'TOGGLE_THEME';
+
+// FLOOD
+export const FLOOD_REQUEST = 'FLOOD_REQUEST';
+export const FLOOD_RESPONSE = 'FLOOD_RESPONSE';
+export const FLOOD_LOADING_ENDED = 'FLOOD_LOADING_ENDED';
+export const FLOOD_FAILED = 'FLOOD_FAILED';
+export const LOG_OUT = 'LOG_OUT';
